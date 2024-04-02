@@ -1,0 +1,3 @@
+# This directory contains copies of downloaded data - don't put it in git
+*
+!.gitignore
